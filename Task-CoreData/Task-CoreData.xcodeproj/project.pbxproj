@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37596C5D2638A59C00C0782E /* TaskListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37596C5C2638A59C00C0782E /* TaskListTableViewController.swift */; };
 		7EDB767125B6996A00B80B7D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EDB767025B6996A00B80B7D /* AppDelegate.swift */; };
 		7EDB767325B6996A00B80B7D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EDB767225B6996A00B80B7D /* SceneDelegate.swift */; };
 		7EDB767825B6996A00B80B7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7EDB767625B6996A00B80B7D /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37596C5C2638A59C00C0782E /* TaskListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListTableViewController.swift; sourceTree = "<group>"; };
 		7EDB766D25B6996A00B80B7D /* Task-CoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Task-CoreData.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EDB767025B6996A00B80B7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7EDB767225B6996A00B80B7D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				7EDB768D25B699AA00B80B7D /* CoreData */,
 				7EDB768C25B6999F00B80B7D /* Views */,
 				7EDB768825B6998900B80B7D /* Resources */,
+				37596C5C2638A59C00C0782E /* TaskListTableViewController.swift */,
 			);
 			path = "Task-CoreData";
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				7EDB767125B6996A00B80B7D /* AppDelegate.swift in Sources */,
 				7EDB767325B6996A00B80B7D /* SceneDelegate.swift in Sources */,
+				37596C5D2638A59C00C0782E /* TaskListTableViewController.swift in Sources */,
 				7EDB767B25B6996A00B80B7D /* Task_CoreData.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
